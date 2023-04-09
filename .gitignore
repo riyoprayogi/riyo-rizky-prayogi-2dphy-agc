@@ -2,6 +2,10 @@
 Library/*
 Logs/*
 Temp/*
+obj/*
 
 .vsconfig
 *.sln
+.vs/*
+*.sln
+*.csproj
